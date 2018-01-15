@@ -3,7 +3,7 @@
     "src/*.ts"
   ],
   "compilerOptions": {
-    "target": "ES5",
+    "target": "ES2015",
     "outFile": "output/udf-getCustomerId.js"
   }
 }
