@@ -1,6 +1,4 @@
 {
-  "name": "cosmos-udf-getcustomerid",
-  "version": "1.0.0",
   "scripts": {
     "build": "tsc"
   },
