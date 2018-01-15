@@ -1,0 +1,9 @@
+{
+  "include": [
+    "src/*.ts"
+  ],
+  "compilerOptions": {
+    "target": "ES5",
+    "outFile": "output/udf-getCustomerId.js"
+  }
+}
